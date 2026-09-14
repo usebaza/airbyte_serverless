@@ -8,5 +8,4 @@ build/
 .idea
 venv/
 .venv/
-config.bat
 node_modules
